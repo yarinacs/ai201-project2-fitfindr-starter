@@ -196,7 +196,7 @@ specific instances:
 
 ## Spec Reflection
 
-> *Replace this with your own reflection.* A few prompts based on how the build went:
+
 > - The free-form `size` field (`"S/M"`, `"W30 L30"`, `"XL (oversized)"`) was the
 >   biggest spec gap — my original plan said "filter by size" without defining *how*,
 >   and exact matching silently dropped valid results. Defining substring matching in
